@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-SoloProject1/static/css/main.d5b634ac.css",
+    "main.js": "/React-SoloProject1/static/js/main.482261d0.js",
+    "index.html": "/React-SoloProject1/index.html",
+    "main.d5b634ac.css.map": "/React-SoloProject1/static/css/main.d5b634ac.css.map",
+    "main.482261d0.js.map": "/React-SoloProject1/static/js/main.482261d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5b634ac.css",
+    "static/js/main.482261d0.js"
+  ]
+}
